@@ -11,8 +11,6 @@ This repository gathers high-quality, exam-oriented, and simplified notes for al
 It includes also notes from related fields such as:
 - **Data Science**
 - **Cybersecurity**
-- **ICT Management and Innovation**
-- **Psychology and Information Technology**
 
 
 This collection represents years of dedicated work in synthesizing academic materials. 
@@ -56,8 +54,10 @@ Commercial use, mass redistribution, or direct copy without attribution is prohi
 ## 🔗 Related Resources
 
 - University of Padua Official Website: [https://www.unipd.it](https://www.unipd.it)
-- Computer Science Bachelor Program (Informatica): [Link](https://www.unipd.it/corsi/informatica)
-- Computer Science Master Program: [Link](https://www.unipd.it/corsi/scienze-informatiche)
+- Computer Science Bachelor Program (Informatica): [Link](https://informatica.math.unipd.it/laurea/)
+- Computer Science Master Program: [Link](https://informatica.math.unipd.it/en/master/)
+- Data Science Master Program: [Link](https://informatica.math.unipd.it/en/master/)
+- Cybersecurity Master Program: [Link](https://informatica.math.unipd.it/en/master/)
 
 ---
 
