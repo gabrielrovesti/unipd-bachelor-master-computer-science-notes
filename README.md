@@ -11,7 +11,7 @@ This repository gathers high-quality, exam-oriented, and simplified notes for al
 It includes also notes from related fields such as:
 - **Data Science**
 - **Cybersecurity**
-
+- **Related fields of Engineering and Psychology**
 
 This collection represents years of dedicated work in synthesizing academic materials. 
 
@@ -25,9 +25,11 @@ Being student notes, it's definitely feasible to have some reference coming from
 
 ## 🗂️ Repository Structure
 
-- `triennale/` – Bachelor's Degree notes (BSc Informatica)
-- `magistrale/` – Master's Degree notes (MSc Computer Science)
+- `Bachelor Degree - Informatica/` – ALL Bachelor's Degree notes (BSc Informatica)
+- `Master Degree - Computer Science/` – ALL Master's Degree notes (MSc Computer Science)
   - `Major`, `Minor`, `Mandatory`, `Elective`, and `Others`
+- `Master Degree - Cybersecurity/` – Some notes of the attended courses or created
+- `Master Degree - Data Science/` – Some notes of the attended courses or created
 - Notes are provided mainly in PDF format, including comprehensive course summaries, exercise solutions, FAQs, and study guides.
 
 ---
@@ -36,9 +38,11 @@ Being student notes, it's definitely feasible to have some reference coming from
 
 - ✅ Extremely **comprehensive**: covers virtually all core and elective subjects.
 - ✅ **Simplified**: focused on clarity, essence, and exam success.
-- ✅ **Updated**: includes materials up to academic year 2023-2024.
+- ✅ **Updated**: includes materials up to academic year 2024-2025.
 - ✅ **Structured**: hierarchical and thematic organization.
+- ✅ **Formal**: precision at its core it's definitely considered in their conception.
 - ✅ **Multi-disciplinary**: extends beyond traditional computer science.
+- ✅ **For all who love learning and writing**: verbose, but needed. There are also computer scientists who also like humanistic subjects. So yeah, I like writing. Have at you.
 
 ---
 
@@ -67,6 +71,7 @@ If you find this work useful:
 - **Star** 🌟 the repository
 - **Share** 📤 with your colleagues and friends
 - **Contribute** by opening Issues or Pull Requests for updates or improvements
+- **Support this project** by doing donations (dedicated to all of the envious people that like to stalk my repos - I walk alone, since in 5 years, the cloud has that level of depth for a reason. Write in private and do not insult in groups where I am not present if you have to complain. But I think you cannot.)
 
 ---
 
